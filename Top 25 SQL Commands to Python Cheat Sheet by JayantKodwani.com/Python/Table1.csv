@@ -1,0 +1,8 @@
+﻿EmployeeID,Name,Age,Salary,DOJ,Department
+1001,Rahul,36,10000,1/27/2020,HR
+1002,Abhishek,40,20000,3/27/2021,HR
+1003,Naman,,30000,5/27/2021,Finance
+1004,Aditya,30,40000,4/27/2021,Operations
+1005,Yogesh,,50000,1/27/2021,Operations
+1006,Amit,25,60000,1/27/2022,Marketing
+1007,Manish,39,50000,7/5/2021,Marketing
